@@ -1,0 +1,33 @@
+segment_sources:
+  IABB9825B:
+    type: origin_type
+    relation: translation
+    language: sa
+  I37DC6DB8:
+    type: origin_type
+    relation: translation
+    language: zh
+  I4BCC7646:
+    type: origin_type
+    relation: translation
+    language: zh
+  IE1CB08F7:
+    type: origin_type
+    relation: translation
+    language: zh
+  I9719117B:
+    type: origin_type
+    relation: translation
+    language: bo
+  IC7170C88:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  0a9ae1c156b946849fe27c662e8e5924:
+    IABB9825B: d1754cec72594adcb543d278ad1472d4
+    I37DC6DB8: 4896baf35c0e4f6f8b0204b23c722338
+    I4BCC7646: None
+    IE1CB08F7: 3aa27bcce7d2417da5560eab2ec0b169
+    I9719117B: ef4a8687e3f0474fb5fe04ab0dc32c71
+    IC7170C88: None
